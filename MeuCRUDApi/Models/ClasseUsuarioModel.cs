@@ -1,7 +1,8 @@
 namespace MeuCRUDApi.Models;
 
-public class luquita{
-    public void fala(){
-        Console.WriteLine("LUQUITAAAAAA");
-    }
+public class UsuarioModel{
+    public int id {get; set;}
+    public string? nome {get; set;}
+    public string? email {get; set;}
+
 }

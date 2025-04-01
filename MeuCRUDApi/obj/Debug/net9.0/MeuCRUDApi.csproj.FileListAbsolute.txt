@@ -31,3 +31,9 @@ D:\PORO\Estudos\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\MeuCRUDApi\obj
 D:\PORO\Estudos\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\MeuCRUDApi\obj\Debug\net9.0\MeuCRUDApi.pdb
 D:\PORO\Estudos\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\MeuCRUDApi\obj\Debug\net9.0\MeuCRUDApi.genruntimeconfig.cache
 D:\PORO\Estudos\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\MeuCRUDApi\obj\Debug\net9.0\ref\MeuCRUDApi.dll
+D:\PORO\Estudos\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\MeuCRUDApi\obj\Debug\net9.0\MeuCRUDApi.sourcelink.json
+D:\PORO\Estudos\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\MeuCRUDApi\bin\Debug\net9.0\MeuCRUDApi.staticwebassets.runtime.json
+D:\PORO\Estudos\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\MeuCRUDApi\obj\Debug\net9.0\compressed\z7snk9fq8k-mwkewk1kww.gz
+D:\PORO\Estudos\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\MeuCRUDApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PORO\Estudos\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\MeuCRUDApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PORO\Estudos\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\MeuCRUDApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

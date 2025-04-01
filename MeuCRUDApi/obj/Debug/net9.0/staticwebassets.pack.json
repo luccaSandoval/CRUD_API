@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MeuCRUDApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MeuCRUDApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MeuCRUDApi.props",
+      "PackagePath": "build\\MeuCRUDApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MeuCRUDApi.props",
+      "PackagePath": "buildMultiTargeting\\MeuCRUDApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MeuCRUDApi.props",
+      "PackagePath": "buildTransitive\\MeuCRUDApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

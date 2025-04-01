@@ -1,12 +1,362 @@
 {
   "Version": 1,
-  "Hash": "1mFxqkcdT2Qg3Ip6mf73f6gvO9cW9FVtKaudIiPjL6g=",
+  "Hash": "oFGVp+/oejqbkEz+7b7VVAHQxdCxTVzXRXKp/pQiPFA=",
   "Source": "MeuCRUDApi",
   "BasePath": "_content/MeuCRUDApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "MeuCRUDApi\\wwwroot",
+      "Source": "MeuCRUDApi",
+      "ContentRoot": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\wwwroot\\",
+      "BasePath": "_content/MeuCRUDApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\obj\\Debug\\net9.0\\compressed\\z7snk9fq8k-mwkewk1kww.gz",
+      "SourceId": "MeuCRUDApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MeuCRUDApi",
+      "RelativePath": "index#[.{fingerprint=mwkewk1kww}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ucdj66l963",
+      "Integrity": "XvjFqEvjSgZayaP6azzIS6nZyCJfYCaN4ao7oCe2xr4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\wwwroot\\index.html",
+      "SourceId": "MeuCRUDApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\wwwroot\\",
+      "BasePath": "_content/MeuCRUDApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mwkewk1kww",
+      "Integrity": "qp6gHObnAdWK0LF9gcCWm69ZStAVpjo42HZDtnJo4rk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\obj\\Debug\\net9.0\\compressed\\z7snk9fq8k-mwkewk1kww.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004950495050"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "201"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XvjFqEvjSgZayaP6azzIS6nZyCJfYCaN4ao7oCe2xr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:23:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qp6gHObnAdWK0LF9gcCWm69ZStAVpjo42HZDtnJo4rk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qp6gHObnAdWK0LF9gcCWm69ZStAVpjo42HZDtnJo4rk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qp6gHObnAdWK0LF9gcCWm69ZStAVpjo42HZDtnJo4rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:23:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qp6gHObnAdWK0LF9gcCWm69ZStAVpjo42HZDtnJo4rk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\obj\\Debug\\net9.0\\compressed\\z7snk9fq8k-mwkewk1kww.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XvjFqEvjSgZayaP6azzIS6nZyCJfYCaN4ao7oCe2xr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:23:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XvjFqEvjSgZayaP6azzIS6nZyCJfYCaN4ao7oCe2xr4="
+        }
+      ]
+    },
+    {
+      "Route": "index.mwkewk1kww.html",
+      "AssetFile": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\obj\\Debug\\net9.0\\compressed\\z7snk9fq8k-mwkewk1kww.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004950495050"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "201"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XvjFqEvjSgZayaP6azzIS6nZyCJfYCaN4ao7oCe2xr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:23:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qp6gHObnAdWK0LF9gcCWm69ZStAVpjo42HZDtnJo4rk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mwkewk1kww"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qp6gHObnAdWK0LF9gcCWm69ZStAVpjo42HZDtnJo4rk="
+        }
+      ]
+    },
+    {
+      "Route": "index.mwkewk1kww.html",
+      "AssetFile": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qp6gHObnAdWK0LF9gcCWm69ZStAVpjo42HZDtnJo4rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:23:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mwkewk1kww"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qp6gHObnAdWK0LF9gcCWm69ZStAVpjo42HZDtnJo4rk="
+        }
+      ]
+    },
+    {
+      "Route": "index.mwkewk1kww.html.gz",
+      "AssetFile": "D:\\PORO\\Estudos\\Processo seletivo IT Bootcamp-MELI(Mercado Livre)\\MeuCRUDApi\\obj\\Debug\\net9.0\\compressed\\z7snk9fq8k-mwkewk1kww.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XvjFqEvjSgZayaP6azzIS6nZyCJfYCaN4ao7oCe2xr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:23:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mwkewk1kww"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XvjFqEvjSgZayaP6azzIS6nZyCJfYCaN4ao7oCe2xr4="
+        }
+      ]
+    }
+  ]
 }
