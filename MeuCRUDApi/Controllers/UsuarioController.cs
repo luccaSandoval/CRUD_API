@@ -4,7 +4,7 @@ using MeuCRUDApi.Models;
 
 namespace MeuCRUDApi.Controllers;
 
-[Route("api/[controller]")]
+[Route("api/[controller]")] //rota da api
 [ApiController]
 
 public class UsuarioController : ControllerBase
