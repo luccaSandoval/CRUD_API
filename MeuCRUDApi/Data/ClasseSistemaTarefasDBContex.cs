@@ -1,3 +1,4 @@
+using MeuCRUDApi.Data.Map;
 using MeuCRUDApi.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,6 +18,8 @@ namespace MeuCRUDApi.Data
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.ApplyConfiguration(new UsuarioMap());
+        modelBuilder.ApplyConfiguration(new TarefaMap());
         base.OnModelCreating(modelBuilder);
     }
 
