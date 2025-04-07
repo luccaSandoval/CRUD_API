@@ -1,20 +1,28 @@
-# 📌 MeuCRUDAPI – API REST com ASP.NET Core
+# 📌API REST com ASP.NET Core
 
-Este projeto é uma API RESTlike simples, desenvolvida com **ASP.NET Core** e **C#**, com o objetivo de gerenciar tarefas e usuários.
+Este projeto é uma API REST-like simples, desenvolvida com **ASP.NET Core** e **C#**, com o objetivo de gerenciar tarefas e usuários.
 
-A aplicação foi construída utilizando tecnologias como **Entity Framework Core** para acesso e manipulação de dados, e **SQL Server** como banco de dados relacional.
+## 🔧 Tecnologias Utilizadas
 
-Toda a estrutura do projeto foi separada por camadas para garantir clareza e manutenibilidade do código. Os **Controllers** são responsáveis por tratar as requisições HTTP. 
-A camada **Models** representa as entidades do sistema. 
-A pasta **Data** contém o `DbContext`, os arquivos de **Migrations** e os mapeamentos. 
-Os **Repositórios** encapsulam a lógica de negócio e a comunicação com o banco de dados.
+- [.NET 7 / 8]
+- C#
+- Entity Framework Core
+- SQL Server
+- Injeção de Dependência
+- Migrations (Code First)
 
-O projeto também faz uso do padrão **Repository** e de **injeção de dependência** através do método `AddScoped`, permitindo que as classes responsáveis pela lógica de negócio sejam instanciadas automaticamente quando requisitadas.
--
--
--
--
--
+---
+
+## 🚀 Funcionalidades
+
+- ✅ CRUD de Usuários
+- ✅ CRUD de Tarefas
+- ✅ Vincular Tarefas a Usuários
+- ✅ Status de Tarefas com Enum
+- ✅ Versionamento de banco com Migrations
+- ✅ Organização em camadas (Controller, Models, Data, Repository)
+
+
 Para executar o projeto, é necessário clonar o repositório, ajustar a string de conexão no arquivo de configuração, aplicar as migrations com o comando `dotnet ef database update` e rodar a aplicação com `dotnet run`.
 
 Este projeto foi desenvolvido com foco em aprendizado prático!
