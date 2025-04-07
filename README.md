@@ -23,7 +23,7 @@ Este projeto é uma API REST-like simples, desenvolvida com **ASP.NET Core** e *
 - ✅ Organização em camadas (Controller, Models, Data, Repository)
 
 
-Para executar o projeto, é necessário clonar o repositório, ajustar a string de conexão no arquivo de configuração, aplicar as migrations com o comando `dotnet ef database update` e rodar a aplicação com `dotnet run`.
+Para executar o projeto no VS Code, é necessário clonar o repositório, ajustar a string de conexão no arquivo de configuração, aplicar as migrations com o comando `dotnet ef database update` e rodar a aplicação com `dotnet run`.
 
 Este projeto foi desenvolvido com foco em aprendizado prático!
 
