@@ -2,7 +2,7 @@
 
 Este projeto é uma API REST-like simples, desenvolvida com **ASP.NET Core** e **C#**, com o objetivo de gerenciar tarefas e usuários.
 
-## 🔧 Tecnologias Utilizadas
+## 🔧 Tecnologias/Ferramentas Utilizadas
 
 - [.NET 7 / 8]
 - C#
@@ -10,6 +10,7 @@ Este projeto é uma API REST-like simples, desenvolvida com **ASP.NET Core** e *
 - SQL Server
 - Injeção de Dependência
 - Migrations (Code First)
+- Swagger
 
 ---
 
