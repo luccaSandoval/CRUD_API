@@ -2,7 +2,7 @@
 
 Este projeto é uma API RESTlike simples, desenvolvida com **ASP.NET Core** e **C#**, com o objetivo de gerenciar tarefas e usuários.
 
-A aplicação foi construída utilizando tecnologias como **Entity Framework Core** para acesso e manipulação de dados, **SQL Server** como banco de dados relacional.
+A aplicação foi construída utilizando tecnologias como **Entity Framework Core** para acesso e manipulação de dados, e **SQL Server** como banco de dados relacional.
 
 Toda a estrutura do projeto foi separada por camadas para garantir clareza e manutenibilidade do código. Os **Controllers** são responsáveis por tratar as requisições HTTP. 
 A camada **Models** representa as entidades do sistema. 
