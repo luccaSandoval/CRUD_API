@@ -23,6 +23,7 @@ builder.Services.AddDbContext<SistemaTarefasDBContex>(options =>
 );
 
 builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>(); // resolvendo injeção de depedencia, toda vez que algume chamar essa interface (IUsuarioRepositorio), ele vai saber que a classe que ele tem q instaciar é a classe  
+builder.Services.AddScoped<ITarefaRepositorio, TarefaRepositorio>();
 
 var app = builder.Build();
 
