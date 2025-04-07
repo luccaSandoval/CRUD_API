@@ -1,4 +1,4 @@
-# 📌API REST com ASP.NET Core
+# 📌API REST-like com ASP.NET Core
 
 Este projeto é uma API REST-like simples, desenvolvida com **ASP.NET Core** e **C#**, com o objetivo de gerenciar tarefas e usuários.
 
